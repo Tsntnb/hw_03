@@ -1,0 +1,31 @@
+baseURL = 'https://Tsntnb.github.io/SiteforPlugin/'
+languageCode = "ru-RU"
+defaultContentLanguage = "ru"
+title = 'CustomLevels'
+theme = 'Compose'
+
+[params]
+  author = 'Tnstnb'
+  description = 'Сайт для наглядного примера плагина на уровни в Майнкрафт'
+
+  
+[params.logo]
+  lightMode = "CustomLevels Logo.png"
+  darkMode = "CustomLevels Logo.png"
+
+[menu]
+  [[menu.main]]
+    name = 'Главная'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Описание'
+    url = '/about/'
+    weight = 2
+  [[menu.main]]
+    name = 'Разработка'
+    url = '/dev/'
+    weight = 3
+
+
+ 
