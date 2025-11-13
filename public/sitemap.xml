@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://https://tsntnb.github.io/hw_03/about/</loc>
+    <loc>http://localhost:1313/SiteforPlugin/about/</loc>
     <lastmod>2025-11-12T18:51:19+03:00</lastmod>
   </url><url>
-    <loc>http://https://tsntnb.github.io/hw_03/dev/</loc>
+    <loc>http://localhost:1313/SiteforPlugin/dev/</loc>
     <lastmod>2025-11-12T18:51:19+03:00</lastmod>
   </url><url>
-    <loc>http://https://tsntnb.github.io/hw_03/</loc>
+    <loc>http://localhost:1313/SiteforPlugin/</loc>
     <lastmod>2025-11-12T18:51:14+03:00</lastmod>
   </url><url>
-    <loc>http://https://tsntnb.github.io/hw_03/categories/</loc>
+    <loc>http://localhost:1313/SiteforPlugin/categories/</loc>
   </url><url>
-    <loc>http://https://tsntnb.github.io/hw_03/tags/</loc>
+    <loc>http://localhost:1313/SiteforPlugin/tags/</loc>
   </url>
 </urlset>

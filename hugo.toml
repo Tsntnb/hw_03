@@ -1,8 +1,8 @@
-baseURL = 'https://Tsntnb.github.io/hw_03/'
+baseURL = 'https://Tsntnb.github.io/SiteforPlugin/'
 languageCode = "ru-RU"
 defaultContentLanguage = "ru"
 title = 'CustomLevels'
-theme = 'compose'
+theme = 'Compose'
 
 [params]
   author = 'Tnstnb'
