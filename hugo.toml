@@ -2,7 +2,7 @@ baseURL = 'https://Tsntnb.github.io/hw_03/'
 languageCode = "ru-RU"
 defaultContentLanguage = "ru"
 title = 'CustomLevels'
-theme = 'Compose'
+theme = 'compose'
 
 [params]
   author = 'Tnstnb'
